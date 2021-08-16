@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 7b3fde9c01eb566897bb488210c3a653054a410f obcior <bartekpaciorek.bp@gmail.com> 1628675810 +0200	commit (initial): Initialize project using Create React App
-7b3fde9c01eb566897bb488210c3a653054a410f 7b3fde9c01eb566897bb488210c3a653054a410f obcior <bartekpaciorek.bp@gmail.com> 1628675924 +0200	Branch: renamed refs/heads/master to refs/heads/main
-7b3fde9c01eb566897bb488210c3a653054a410f 625dfaeaa72631157204826d670882423833a5a8 obcior <bartekpaciorek.bp@gmail.com> 1628677265 +0200	commit: d
-625dfaeaa72631157204826d670882423833a5a8 42c9576e3e7a42daf152aa105ce9e5d991b2629d obcior <bartekpaciorek.bp@gmail.com> 1628692051 +0200	commit: useState
-42c9576e3e7a42daf152aa105ce9e5d991b2629d ca805bfff6a389e1f7168bd7f133ebfec29fa84c obcior <bartekpaciorek.bp@gmail.com> 1628751303 +0200	commit: final form

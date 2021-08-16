@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 5c5b352d3f7102fcf171c6962acd9f2a04ddb15c obcior <bartekpaciorek.bp@gmail.com> 1628752854 +0200	commit (initial): Initialize project using Create React App
-5c5b352d3f7102fcf171c6962acd9f2a04ddb15c c66615a921ccb39cc4f57ffc7ff8eaea288a7202 obcior <bartekpaciorek.bp@gmail.com> 1628752914 +0200	commit: dsa
-c66615a921ccb39cc4f57ffc7ff8eaea288a7202 0000000000000000000000000000000000000000 obcior <bartekpaciorek.bp@gmail.com> 1628752940 +0200	Branch: renamed refs/heads/master to refs/heads/main
-0000000000000000000000000000000000000000 c66615a921ccb39cc4f57ffc7ff8eaea288a7202 obcior <bartekpaciorek.bp@gmail.com> 1628752940 +0200	Branch: renamed refs/heads/master to refs/heads/main
-c66615a921ccb39cc4f57ffc7ff8eaea288a7202 6a013d06f684862068d72bfc157ed8065405c2ce obcior <bartekpaciorek.bp@gmail.com> 1628766240 +0200	commit: final form with themes
