@@ -10,7 +10,7 @@
 
 .modal {
 	position: fixed;
-	top: 20vh;
+	top: 15vh;
 	left: 5%;
 	width: 90%;
 	background-color: white;
@@ -28,6 +28,12 @@
 	}
 }
 
+.content {
+	max-height: 80vh;
+	overflow: auto;
+	padding: 0 1rem;
+}
+
 @keyframes slide-down {
 	from {
 		opacity: 0;
@@ -38,10 +44,12 @@
 		transform: translateY(0);
 	}
 }
-
 /* width */
 .modal ::-webkit-scrollbar {
-	width: 0px;
+	width: 5px;
+}
+.content ::-webkit-scrollbar {
+	width: 3px;
 }
 
 /* Track */
@@ -51,7 +59,7 @@
 
 /* Handle */
 .modal ::-webkit-scrollbar-thumb {
-	background: rgb(0, 0, 0);
+	background: #8a2b06;
 	border-radius: 2rem;
 }
 
