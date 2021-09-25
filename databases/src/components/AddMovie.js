@@ -1,11 +1,11 @@
-import React, { useRef } from 'react';
+import React, { useRef } from "react";
 
-import classes from './AddMovie.module.css';
+import classes from "./AddMovie.module.css";
 
 function AddMovie(props) {
-	const titleRef = useRef('');
-	const openingTextRef = useRef('');
-	const releaseDateRef = useRef('');
+	const titleRef = useRef("");
+	const openingTextRef = useRef("");
+	const releaseDateRef = useRef("");
 
 	function submitHandler(event) {
 		event.preventDefault();
